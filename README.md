@@ -1,16 +1,5 @@
 # hw_calculator
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1699967071](https://github.com/burakcetn/hw_calculator/assets/45536352/e8a10218-8a58-4b10-94f7-4e941d090e50)
+![Screenshot_1699967078](https://github.com/burakcetn/hw_calculator/assets/45536352/c3975b2f-4454-4d05-a868-fe6cadd894fb)
+![Screenshot_1699967080](https://github.com/burakcetn/hw_calculator/assets/45536352/890afd66-10da-478e-90c1-4c491e233dd8)
